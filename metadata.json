@@ -1,0 +1,7 @@
+{
+  "name": "Limuru Girls' CBC Bridge - KSEF Entry",
+  "description": "A prestigious CBC support platform for Kenyan educators and parents, submitted for KSEF 2024. Guided by Madam Nasimiyu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
